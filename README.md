@@ -10,7 +10,7 @@ A leading retail company wants to better understand its customers’ shopping be
 - **Python** (Pandas) — data cleaning & feature engineering
 - **PostgreSQL** — structured business queries & segmentation
 - **Power BI** — interactive dashboard for stakeholder reporting
-- 
+
 ## 📁 Project Structure
 - `data/` — raw and cleaned datasets
 - `python/` — data cleaning and EDA scripts
